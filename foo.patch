@@ -1,3 +1,4 @@
+Bug: https://bugs.gentoo.org/898276
 --- a/examples/ex26.C
 +++ b/examples/ex26.C
 @@ -188,7 +188,7 @@ Initializer(GAGenome& g) {
